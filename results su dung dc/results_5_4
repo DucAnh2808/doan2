@@ -1,0 +1,75 @@
+map 1: layout 5, dim 5 = 21, dim 6 = 10
+map 2: layout 5, dim 5 = 33, dim 6 = 16
+map 3: layout 8, dim 3 = 40
+map 4: layout 8, im 3 = 19
+map 5: layout 8, dim 3 = 52
+
+------------------- 30
+DRL map 1
+6193
+time: 388
+end time 0:00:33.897390
+
+
+A* map 1
+6316
+time: 362
+end time 0:00:58.195790
+
+
+----------------- 30
+DRL map 2
+20977
+time: 793
+end time 0:02:11.989244
+
+
+A* map 2
+21461
+time: 829
+end time 0:09:29.722843
+
+--------------- 30
+DRL map 3
+32711
+time: 1154
+end time 0:02:57.955736
+
+A* map 3
+35314
+time: 1288
+end time 0:08:41.835129
+
+
+--------------- 20
+DRL map 3
+31184
+time: 1613
+end time 0:02:55.296853
+
+A* map 3
+
+
+---------------- 20
+DRL map 4
+11477
+time: 634
+end time 0:00:47.592248
+
+
+A* map 4	
+
+13189
+time: 750
+end time 0:01:34.669802
+
+
+---------------- 30
+DRL map 5
+
+
+
+A* map 5	
+51668
+time: 1864
+end time 0:19:43.352356

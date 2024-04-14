@@ -1,0 +1,24 @@
+time: 1078
+end_run 0:08:08.128818
+Cost distance:  17609
+Total_optimal_path:  0
+
+time: 1085
+end_run 0:08:17.111956
+Cost distance:  17919
+Total_optimal_path:  0
+
+time: 1094
+end_run 0:08:44.621051
+Cost distance:  18133
+
+
+
+#DQN
+time: 1035
+end_run 0:01:12.626310
+Cost distance:  16490
+
+time: 1035
+end_run 0:01:11.951666
+Cost distance:  16490
