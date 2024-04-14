@@ -1,0 +1,894 @@
+time: 1
+episode: 2
+0.8
+0.01
+out of boundary
+time: 9
+episode: 3
+0.8
+0.01
+out of boundary
+time: 3
+episode: 4
+0.8
+0.01
+out of boundary
+time: 1
+episode: 5
+0.8
+0.01
+out of boundary
+time: 1
+episode: 6
+0.8
+0.01
+out of boundary
+time: 1
+episode: 7
+0.8
+0.01
+out of boundary
+time: 1
+episode: 8
+0.8
+0.01
+out of boundary
+time: 1
+episode: 9
+0.8
+0.01
+out of boundary
+time: 1
+episode: 10
+0.8
+0.01
+out of boundary
+time: 1
+episode: 11
+0.8
+0.01
+out of boundary
+time: 1
+episode: 12
+0.8
+0.01
+out of boundary
+time: 5
+episode: 13
+0.8
+0.01
+out of boundary
+time: 1
+episode: 14
+0.8
+0.01
+out of boundary
+time: 1
+episode: 15
+0.8
+0.01
+out of boundary
+time: 1
+episode: 16
+0.8
+0.01
+out of boundary
+time: 1
+episode: 17
+0.8
+0.01
+out of boundary
+time: 6
+episode: 18
+0.8
+0.01
+out of boundary
+time: 1
+episode: 19
+0.8
+0.01
+out of boundary
+time: 1
+episode: 20
+0.8
+0.01
+out of boundary
+time: 3
+episode: 21
+0.8
+0.01
+out of boundary
+time: 1
+episode: 22
+0.8
+0.01
+out of boundary
+time: 1
+episode: 23
+0.8
+0.01
+out of boundary
+time: 1
+episode: 24
+0.8
+0.01
+out of boundary
+time: 1
+episode: 25
+0.8
+0.01
+out of boundary
+time: 1
+episode: 26
+0.8
+0.01
+out of boundary
+time: 3
+episode: 27
+0.8
+0.01
+out of boundary
+time: 1
+episode: 28
+0.8
+0.01
+out of boundary
+time: 1
+episode: 29
+0.8
+0.01
+out of boundary
+time: 1
+episode: 30
+0.8
+0.01
+out of boundary
+time: 3
+episode: 31
+0.8
+0.01
+out of boundary
+time: 1
+episode: 32
+0.8
+0.01
+out of boundary
+time: 1
+episode: 33
+0.8
+0.01
+out of boundary
+time: 1
+episode: 34
+0.8
+0.01
+out of boundary
+time: 1
+episode: 35
+0.8
+0.01
+out of boundary
+time: 1
+episode: 36
+0.8
+0.01
+out of boundary
+time: 1
+episode: 37
+0.8
+0.01
+out of boundary
+time: 3
+episode: 38
+0.8
+0.01
+out of boundary
+time: 1
+episode: 39
+0.8
+0.01
+out of boundary
+time: 1
+episode: 40
+0.8
+0.01
+out of boundary
+time: 1
+episode: 41
+0.8
+0.01
+out of boundary
+time: 1
+episode: 42
+0.8
+0.01
+out of boundary
+time: 1
+episode: 43
+0.8
+0.01
+out of boundary
+time: 3
+episode: 44
+0.8
+0.01
+out of boundary
+time: 5
+episode: 45
+0.8
+0.01
+out of boundary
+time: 1
+episode: 46
+0.8
+0.01
+out of boundary
+time: 1
+episode: 47
+0.8
+0.01
+out of boundary
+time: 1
+episode: 48
+0.8
+0.01
+out of boundary
+time: 1
+episode: 49
+0.8
+0.01
+out of boundary
+time: 1
+episode: 50
+0.8
+0.01
+out of boundary
+time: 1
+episode: 51
+0.8
+0.01
+out of boundary
+time: 5
+episode: 52
+0.8
+0.01
+out of boundary
+time: 3
+episode: 53
+0.8
+0.01
+out of boundary
+time: 1
+episode: 54
+0.8
+0.01
+out of boundary
+time: 1
+episode: 55
+0.8
+0.01
+out of boundary
+time: 3
+episode: 56
+0.8
+0.01
+out of boundary
+time: 1
+episode: 57
+0.8
+0.01
+out of boundary
+time: 16
+episode: 58
+0.8
+0.01
+hit p_station
+time: 10
+episode: 59
+0.8
+0.01
+hit p_station
+time: 14
+episode: 60
+0.8
+0.01
+out of boundary
+time: 19
+episode: 61
+0.8
+0.01
+out of boundary
+time: 1
+episode: 62
+0.8
+0.01
+out of boundary
+time: 13
+episode: 63
+0.8
+0.01
+out of boundary
+time: 15
+episode: 64
+0.8
+0.01
+out of boundary
+time: 9
+episode: 65
+0.8
+0.01
+out of boundary
+time: 13
+episode: 66
+0.8
+0.01
+out of boundary
+time: 12
+episode: 67
+0.8
+0.01
+hit p_station
+time: 20
+episode: 68
+0.8
+0.01
+out of boundary
+time: 8
+episode: 69
+0.8
+0.01
+out of boundary
+time: 15
+episode: 70
+0.8
+0.01
+hit p_station
+time: 16
+episode: 71
+0.8
+0.01
+hit p_station
+time: 14
+episode: 72
+0.8
+0.01
+hit s_station
+time: 64
+episode: 73
+0.8
+0.01
+hit s_station
+time: 6
+episode: 74
+0.8
+0.01
+hit s_station
+time: 38
+episode: 75
+0.8
+0.01
+hit s_station
+time: 16
+episode: 76
+0.8
+0.01
+hit s_station
+time: 12
+episode: 77
+0.8
+0.01
+hit s_station
+time: 18
+episode: 78
+0.8
+0.01
+hit s_station
+time: 18
+episode: 79
+0.8
+0.01
+hit s_station
+time: 184
+episode: 80
+0.8
+0.01
+hit s_station
+time: 70
+episode: 81
+0.8
+0.01
+hit s_station
+time: 38
+episode: 82
+0.8
+0.01
+hit s_station
+time: 4
+episode: 83
+0.8
+0.01
+hit s_station
+time: 64
+episode: 84
+0.8
+0.01
+hit s_station
+time: 16
+episode: 85
+0.8
+0.01
+hit s_station
+time: 6
+episode: 86
+0.8
+0.01
+hit s_station
+time: 154
+episode: 87
+0.8
+0.01
+hit s_station
+time: 34
+episode: 88
+0.8
+0.01
+hit s_station
+time: 78
+episode: 89
+0.8
+0.01
+hit s_station
+time: 6
+episode: 90
+0.8
+0.01
+hit s_station
+time: 18
+episode: 91
+0.8
+0.01
+hit s_station
+time: 100
+episode: 92
+0.8
+0.01
+hit p_station
+time: 208
+episode: 93
+0.8
+0.01
+hit s_station
+time: 102
+episode: 94
+0.8
+0.01
+hit s_station
+time: 36
+episode: 95
+0.8
+0.01
+hit s_station
+time: 24
+episode: 96
+0.8
+0.01
+time: 198
+episode: 97
+0.8
+0.01
+time: 304
+episode: 98
+0.802
+0.00991
+time: 204
+episode: 99
+0.804
+0.00982
+time: 220
+episode: 100
+0.806
+0.00973
+time: 224
+neural network auto-saved
+episode: 101
+0.808
+0.009640000000000001
+time: 194
+episode: 102
+0.81
+0.009550000000000001
+time: 154
+episode: 103
+0.812
+0.009460000000000001
+time: 168
+episode: 104
+0.8140000000000001
+0.009370000000000002
+time: 168
+episode: 105
+0.8160000000000001
+0.009280000000000002
+time: 180
+episode: 106
+0.8180000000000001
+0.009190000000000002
+time: 172
+episode: 107
+0.8200000000000001
+0.009100000000000002
+time: 168
+episode: 108
+0.8220000000000001
+0.009010000000000002
+time: 162
+episode: 109
+0.8240000000000001
+0.008920000000000003
+time: 160
+episode: 110
+0.8260000000000001
+0.008830000000000003
+time: 156
+episode: 111
+0.8280000000000001
+0.008740000000000003
+time: 156
+episode: 112
+0.8300000000000001
+0.008650000000000003
+time: 160
+episode: 113
+0.8320000000000001
+0.008560000000000003
+time: 148
+episode: 114
+0.8340000000000001
+0.008470000000000004
+time: 176
+episode: 115
+0.8360000000000001
+0.008380000000000004
+time: 164
+episode: 116
+0.8380000000000001
+0.008290000000000004
+time: 156
+episode: 117
+0.8400000000000001
+0.008200000000000004
+time: 170
+episode: 118
+0.8420000000000001
+0.008110000000000004
+time: 168
+episode: 119
+0.8440000000000001
+0.008020000000000005
+time: 168
+episode: 120
+0.8460000000000001
+0.007930000000000005
+time: 168
+episode: 121
+0.8480000000000001
+0.007840000000000005
+time: 160
+episode: 122
+0.8500000000000001
+0.007750000000000005
+time: 164
+episode: 123
+0.8520000000000001
+0.007660000000000005
+time: 152
+episode: 124
+0.8540000000000001
+0.0075700000000000055
+time: 168
+episode: 125
+0.8560000000000001
+0.007480000000000006
+time: 174
+episode: 126
+0.8580000000000001
+0.007390000000000006
+time: 174
+episode: 127
+0.8600000000000001
+0.007300000000000006
+time: 178
+episode: 128
+0.8620000000000001
+0.007210000000000006
+time: 168
+episode: 129
+0.8640000000000001
+0.0071200000000000065
+time: 162
+episode: 130
+0.8660000000000001
+0.007030000000000007
+time: 164
+episode: 131
+0.8680000000000001
+0.006940000000000007
+time: 150
+episode: 132
+0.8700000000000001
+0.006850000000000007
+time: 164
+episode: 133
+0.8720000000000001
+0.006760000000000007
+time: 184
+episode: 134
+0.8740000000000001
+0.0066700000000000075
+hit s_station
+time: 120
+episode: 135
+0.8760000000000001
+0.006580000000000008
+time: 180
+episode: 136
+0.8780000000000001
+0.006490000000000008
+time: 308
+episode: 137
+0.8800000000000001
+0.006400000000000008
+time: 166
+episode: 138
+0.8820000000000001
+0.006310000000000008
+time: 154
+episode: 139
+0.8840000000000001
+0.0062200000000000085
+time: 384
+episode: 140
+0.8860000000000001
+0.006130000000000009
+time: 160
+episode: 141
+0.8880000000000001
+0.006040000000000009
+time: 176
+episode: 142
+0.8900000000000001
+0.005950000000000009
+time: 158
+episode: 143
+0.8920000000000001
+0.005860000000000009
+time: 178
+episode: 144
+0.8940000000000001
+0.0057700000000000095
+time: 160
+episode: 145
+0.8960000000000001
+0.00568000000000001
+time: 158
+episode: 146
+0.8980000000000001
+0.00559000000000001
+time: 160
+episode: 147
+0.9000000000000001
+0.00550000000000001
+time: 158
+episode: 148
+0.9020000000000001
+0.00541000000000001
+time: 170
+episode: 149
+0.9040000000000001
+0.0053200000000000105
+time: 148
+episode: 150
+0.9060000000000001
+0.005230000000000011
+time: 170
+episode: 151
+0.9080000000000001
+0.005140000000000011
+time: 164
+episode: 152
+0.9100000000000001
+0.005050000000000011
+time: 162
+episode: 153
+0.9120000000000001
+0.004960000000000011
+time: 160
+episode: 154
+0.9140000000000001
+0.0048700000000000115
+time: 154
+episode: 155
+0.9160000000000001
+0.004780000000000012
+time: 154
+episode: 156
+0.9180000000000001
+0.004690000000000012
+time: 156
+episode: 157
+0.9200000000000002
+0.004600000000000012
+time: 166
+episode: 158
+0.9220000000000002
+0.004510000000000012
+time: 152
+episode: 159
+0.9240000000000002
+0.0044200000000000125
+time: 152
+episode: 160
+0.9260000000000002
+0.004330000000000013
+time: 146
+episode: 161
+0.9280000000000002
+0.004240000000000013
+time: 166
+episode: 162
+0.9300000000000002
+0.004150000000000013
+time: 166
+episode: 163
+0.9320000000000002
+0.004060000000000013
+time: 164
+episode: 164
+0.9340000000000002
+0.0039700000000000134
+time: 160
+episode: 165
+0.9360000000000002
+0.0038800000000000136
+time: 160
+episode: 166
+0.9380000000000002
+0.003790000000000014
+time: 166
+episode: 167
+0.9400000000000002
+0.003700000000000014
+time: 156
+episode: 168
+0.9420000000000002
+0.0036100000000000142
+time: 158
+episode: 169
+0.9440000000000002
+0.0035200000000000144
+time: 164
+episode: 170
+0.9460000000000002
+0.0034300000000000146
+time: 164
+episode: 171
+0.9480000000000002
+0.003340000000000015
+time: 186
+episode: 172
+0.9500000000000002
+0.003250000000000015
+time: 154
+episode: 173
+0.9520000000000002
+0.0031600000000000152
+time: 164
+episode: 174
+0.9540000000000002
+0.0030700000000000154
+time: 154
+episode: 175
+0.9560000000000002
+0.0029800000000000156
+time: 152
+episode: 176
+0.9580000000000002
+0.002890000000000016
+time: 160
+episode: 177
+0.9600000000000002
+0.002800000000000016
+time: 158
+episode: 178
+0.9620000000000002
+0.002710000000000016
+time: 152
+episode: 179
+0.9640000000000002
+0.0026200000000000164
+time: 154
+episode: 180
+0.9660000000000002
+0.0025300000000000166
+time: 160
+episode: 181
+0.9680000000000002
+0.002440000000000017
+time: 158
+episode: 182
+0.9700000000000002
+0.002350000000000017
+time: 156
+episode: 183
+0.9720000000000002
+0.002260000000000017
+time: 154
+episode: 184
+0.9740000000000002
+0.0021700000000000174
+time: 164
+episode: 185
+0.9760000000000002
+0.0020800000000000176
+time: 170
+episode: 186
+0.9780000000000002
+0.001990000000000018
+time: 156
+episode: 187
+0.9800000000000002
+0.0019000000000000178
+time: 150
+episode: 188
+0.9820000000000002
+0.0018100000000000178
+time: 156
+episode: 189
+0.9840000000000002
+0.0017200000000000177
+time: 156
+episode: 190
+0.9860000000000002
+0.0016300000000000177
+time: 150
+episode: 191
+0.9880000000000002
+0.0015400000000000177
+time: 154
+episode: 192
+0.9900000000000002
+0.0014500000000000177
+time: 156
+episode: 193
+0.9920000000000002
+0.0013600000000000177
+time: 154
+episode: 194
+0.9940000000000002
+0.0012700000000000176
+time: 158
+episode: 195
+0.9960000000000002
+0.0011800000000000176
+time: 164
+episode: 196
+0.9980000000000002
+0.0010900000000000176
+time: 162
+exploring rate is 1.
+episode: 197
+1.0000000000000002
+0.0010000000000000176
+time: 162
+the value of current learning rate is 0.0010000000000000176
+episode: 198
+1
+0.0009100000000000176
+time: 156
+episode: 199
+1
+0.0009100000000000176
+time: 166
+final neural network saved
+all_reward:[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, 1, -1, -1, 1, 0, 0, 0, 0, 0, 0, 3, 3, 3, 0, 6, 1, 0, 13, 3, 9, 0, 1, 1, 4, 12, 4, 1, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 19, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27]
+Training ends at2023-12-05 10:49:27.899681
